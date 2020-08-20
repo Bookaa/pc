@@ -1,2 +1,5 @@
-# pc
-Computer Lessson
+# Computer Lessson
+
+https://github.com/Bookaa/pc
+
+
